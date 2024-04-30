@@ -42,10 +42,10 @@ sudo nano /etc/hosts
 ```
 Add the following lines (replace with actual private IPs):
 ```
-172.31.80.111 master
-172.31.82.18 slave1
-172.31.56.27 slave2
-172.31.48.92 slave3
+172.31.81.215 master
+172.31.88.197 slave1
+172.31.54.51 slave2
+172.31.55.33 slave3
 ```
 **Note:** AWS may change the public IP if you stop and start an instance. Always use private IPs for internal communication.
 
