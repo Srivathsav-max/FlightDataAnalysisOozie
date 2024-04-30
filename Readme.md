@@ -1,7 +1,5 @@
 
-# AWS EC2 Instance Setup Guide
-
-This guide provides step-by-step instructions for launching two Amazon EC2 instances and setting up passphrase-less SSH between them.
+# AWS EC2 Instance Setup And Execution Of Flight Data Analysis Guide
 
 ## Prerequisites
 - AWS account
