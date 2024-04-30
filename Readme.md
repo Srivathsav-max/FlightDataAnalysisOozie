@@ -421,7 +421,11 @@ cat part-00000
 
 # Execution of Flight Data Analysis Code using Oozie
 
-* Unzip Project Files then go into directory
+* Clone Our Repository
+  ```bash
+  git clone https://github.com/Srivathsav-max/FlightDataAnalysisOozie.git
+  ```
+* Go into Directory to start processes
 ```bash
 cd FlightDataAnalysisOozie
 ```
@@ -469,4 +473,4 @@ After successful execution, pull the output data from HDFS.
 hdfs dfs -get /user/ubuntu/FlightDataAnalysisOozie/output
 ```
 
-### Here End Comes See How easy it is 😏
+### Here End Comes See How Easy it is 😏
