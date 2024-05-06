@@ -1,5 +1,5 @@
 
-# AWS EC2 Instance Setup And Execution Of Flight Data Analysis Guide
+# AWS EC2 Instance Setup And Execution Of Flight Data Analysis Oozie Guide
 
 ## Prerequisites
 - AWS account
