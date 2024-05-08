@@ -449,6 +449,8 @@ Create necessary directories in HDFS for storing the JAR files and project data.
 hdfs dfs -mkdir /user/ubuntu/hadoop
 hdfs dfs -mkdir /user/ubuntu/hadoop/lib
 ```
+**Make sure you upload your jar file Here as this is very important set**
+### Note: This Path We will update in Oozie Workflow where you find tag `<file></file>`
 
 ## Upload JAR to HDFS
 Make sure to provide the correct path in the Oozie workflow.
